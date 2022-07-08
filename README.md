@@ -11,13 +11,24 @@ Using backtracking algorithm, we will try to solve Sudoku problem. When some cel
 Backtracking - Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree).
 
 Sudoku = {
+
         {'5', '3', '.', '.', '7', '.', '.', '.', '.'},
+        
         {'6', '.', '.', '1', '9', '5', '.', '.', '.'},
+        
         {'.', '9', '8', '.', '.', '.', '.', '6', '.'},
+        
         {'8', '.', '.', '.', '6', '.', '.', '.', '3'},
+        
         {'4', '.', '.', '8', '.', '3', '.', '.', '1'},
+        
         {'7', '.', '.', '.', '2', '.', '.', '.', '6'},
+        
         {'.', '6', '.', '.', '.', '.', '2', '8', '.'},
+        
         {'.', '.', '.', '4', '1', '9', '.', '.', '5'},
-        {'.', '.', '.', '.', '8', '.', '.', '7', '9'}};
+        
+        {'.', '.', '.', '.', '8', '.', '.', '7', '9'}
+        
+        };
         
