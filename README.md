@@ -32,3 +32,6 @@ Sudoku = {
         
         };
         
+        Here, ( . ) represents blank number in Sudoku.
+              ( Number ), Pre-filled in Sudoku.
+        
